@@ -27,8 +27,8 @@ public class Main {
         } else {
             System.out.println("Código incorrecto...");
         }
-        for (int i = 0; i < 10; i++) {
-            System.out.println((i+1)+" Hola Mundo...");
-        }
+//        for (int i = 0; i < 10; i++) {
+//            System.out.println((i+1)+" Hola Mundo...");
+//        }
     }
 }
